@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 **Linguagens & Frameworks**
 
