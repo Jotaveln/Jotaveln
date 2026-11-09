@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Vitor
+#  Olá, eu sou João Vitor
 
 ### Desenvolvedor Back-End | Java • Spring Boot • C# • Python
 
@@ -10,7 +10,7 @@ Tenho interesse em construir soluções organizadas, seguras e eficientes, busca
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### Back-End
 
@@ -44,9 +44,9 @@ Tenho interesse em construir soluções organizadas, seguras e eficientes, busca
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 📦 API de Gerenciamento de Produtos
+###  API de Gerenciamento de Produtos
 
 API REST desenvolvida com Java e Spring Boot, voltada ao gerenciamento de produtos, com operações CRUD e persistência de dados.
 
@@ -60,7 +60,7 @@ API REST desenvolvida com Java e Spring Boot, voltada ao gerenciamento de produt
 
 ---
 
-### 📝 Blog Flask
+###  Blog Flask
 
 Aplicação web desenvolvida com Python e Flask, com autenticação de usuários, gerenciamento de publicações e integração com banco de dados relacional.
 
@@ -74,7 +74,7 @@ Aplicação web desenvolvida com Python e Flask, com autenticação de usuários
 
 ---
 
-### 🚗 API — Desafio de Desenvolvimento
+###  API — Desafio de Desenvolvimento
 
 Projeto colaborativo voltado ao desenvolvimento de uma API para gerenciamento de veículos, clientes e reservas, envolvendo modelagem de dados e regras de negócio.
 
@@ -82,7 +82,7 @@ Projeto colaborativo voltado ao desenvolvimento de uma API para gerenciamento de
 
 ---
 
-## 💡 Áreas de Interesse
+##  Áreas de Interesse
 
 - Desenvolvimento de APIs REST
 - Arquitetura de aplicações Back-End
