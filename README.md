@@ -27,15 +27,13 @@ Tenho interesse em construir soluções organizadas, seguras e eficientes, busca
 ### Cloud & Deploy
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,supabase,render" />
 </p>
 
 ### Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<p> 
+  <img src="https://skillicons.dev/icons?i=git,github,postman,swagger" />
 </p>
 
 ---
