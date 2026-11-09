@@ -82,15 +82,6 @@ Projeto colaborativo voltado ao desenvolvimento de uma API para gerenciamento de
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jotaveln&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaveln&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💡 Áreas de Interesse
 
 - Desenvolvimento de APIs REST
